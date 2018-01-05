@@ -12,3 +12,6 @@ Here is some standardized classification data of Shenyin&Wanguo classification d
 ```python
 python convert.py
 ```
+
+# 更新
+2018-01-05 把数据导出成嵌套的json格式，方便前端和后端使用。
