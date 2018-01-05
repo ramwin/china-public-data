@@ -32,24 +32,19 @@ class Industry(object):
         """self的children， children的children里面是否存在和industry的code一致的元素"""
         pass
 
+    def code_without_zero(self):
+        return re.sub("(00)*$", "", self.code)
+
     def contains(self, industry):
         """判断一个industry是否属于self"""
-        if self.parent is None:
-            return industry.ancestor == self
-        else:
-            return industry.code.startswith(self.code)
+        return industry.code_without_zero() != self.code_without_zero() and \
+            industry.code_without_zero().startswith(self.code_without_zero())
 
     def contains_directly(self, industry):
         """判断一个industry是不是直接隶属于self"""
         if not self.contains(industry):
             return False
-        if self.parent is None:
-            if len(industry.code) == 2:
-                return True
-            else:
-                return False
-        else:
-            return len(industry.code)-1 == len(self.code)
+        return len(industry.code_without_zero()) - len(self.code_without_zero()) == 2
 
     def get_next_level(self, industry):
         """返回self的children里面是industry的组辈的那个元素"""
@@ -82,8 +77,12 @@ class Industry(object):
             next_level = self.get_next_level(industry)
             if next_level:
                 next_level.insert(industry)
+            for child in self.children:
+                if child.contains(industry):
+                    child.insert(industry)
+                    break
             else:
-                self.children.append(self.get_next_level_of_industry(industry))
+                raise Exception("没有这个元素，你怎么添加了呢")
 
     @property
     def ancestor(self):
@@ -115,21 +114,28 @@ def main():
     result = []
     reader = csv.DictReader(open(file_name), delimiter=' ')
     print(reader.fieldnames)
-    industry_list = map(
+    industry_list = list(map(
         lambda x: Industry(name=x['name'], code=x['code']),
-        reader)
-    print(industry_list)
+        reader))
     # 添加一级行业
     for index, industry in enumerate(industry_list):
-        if industry.code[-2:] == '00':
+        if industry.code[-4:] == '0000':
             result.append(industry)
+    # 添加二级行业
+    for index, industry in enumerate(industry_list):
+        if industry.code[-4:] != '0000':
+            for i in result:
+                if i.contains(industry):
+                    i.insert(industry)
+                    break
+            else:
+                raise Exception("报错")
     return result
 
 
 if __name__ == '__main__':
     print("====starts=====")
     for index, i in enumerate(main()):
-        print('index')
         pprint.pprint(i.to_dict(), indent=4)
     data = []
     for i in main():
