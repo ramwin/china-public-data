@@ -6,6 +6,10 @@ Here is some standardized classification data of Shenyin&Wanguo classification d
 这里是一些格式化的申万行业分类数据。  
 
 
+# 直接下载
+访问 [链接](https://github.com/ramwin/sws_classification/releases) 下载里面的 result.json 文件
+
+
 # 使用,请安装python3
 1. [安装python3](https://www.python.org/downloads/)
 2. 运行以下代码
