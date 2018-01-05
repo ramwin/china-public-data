@@ -14,11 +14,12 @@ file_name = 'sw.csv'
 
 class Industry(object):
     """代表了行业的类"""
-    def __init__(self, name, code, parent=None):
+    def __init__(self, name, code, parent=None, index_code=None):
         self.name = name.strip()
         self.code = str(code)
         self.parent = parent
         self.children = []
+        self.index_code = index_code
 
     def has_child(self, industry):
         """self的children里面是存在code和industry的code一致的元素"""
@@ -105,6 +106,7 @@ class Industry(object):
         return {
             'code': self.code,
             'name': self.name,
+            'index_code': self.index_code,
             'children': list(map(lambda x: x.to_dict(), self.children))
         }
 
@@ -115,7 +117,7 @@ def main():
     reader = csv.DictReader(open(file_name), delimiter=' ')
     print(reader.fieldnames)
     industry_list = list(map(
-        lambda x: Industry(name=x['name'], code=x['code']),
+        lambda x: Industry(name=x['name'], code=x['code'], index_code=x['index_code']),
         reader))
     # 添加一级行业
     for index, industry in enumerate(industry_list):
