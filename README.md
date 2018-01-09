@@ -6,6 +6,10 @@ Here is some standardized classification data of Shenyin&Wanguo classification d
 这里是一些格式化的申万行业分类数据。  
 
 
+# Keywords/关键词
+申万 申银万国 申万行业分类 申银万国行业分类  
+
+
 # 直接下载
 访问 [链接](https://github.com/ramwin/sws_classification/releases) 下载里面的 result.json 文件
 
