@@ -1,0 +1,2288 @@
+[
+    {
+        "code": "210000",
+        "name": "采掘",
+        "index_code": "801020",
+        "children": [
+            {
+                "code": "210100",
+                "name": "石油开采",
+                "index_code": "801023",
+                "children": [
+                    {
+                        "code": "210101",
+                        "name": "石油开采",
+                        "index_code": "850211",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "210200",
+                "name": "煤炭开采",
+                "index_code": "801021",
+                "children": [
+                    {
+                        "code": "210201",
+                        "name": "煤炭开采",
+                        "index_code": "850221",
+                        "children": []
+                    },
+                    {
+                        "code": "210202",
+                        "name": "焦炭加工",
+                        "index_code": "850222",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "210300",
+                "name": "其他采掘",
+                "index_code": "801022",
+                "children": [
+                    {
+                        "code": "210301",
+                        "name": "其他采掘",
+                        "index_code": "850231",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "210400",
+                "name": "采掘服务",
+                "index_code": "801024",
+                "children": [
+                    {
+                        "code": "210401",
+                        "name": "油气钻采服务",
+                        "index_code": "850241",
+                        "children": []
+                    },
+                    {
+                        "code": "210402",
+                        "name": "其他采掘服务",
+                        "index_code": "850242",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "220000",
+        "name": "化工",
+        "index_code": "801030",
+        "children": [
+            {
+                "code": "220100",
+                "name": "石油化工",
+                "index_code": "801035",
+                "children": [
+                    {
+                        "code": "220101",
+                        "name": "石油加工",
+                        "index_code": "850311",
+                        "children": []
+                    },
+                    {
+                        "code": "220103",
+                        "name": "石油贸易",
+                        "index_code": "850313",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "220200",
+                "name": "化学原料",
+                "index_code": "801033",
+                "children": [
+                    {
+                        "code": "220201",
+                        "name": "纯碱",
+                        "index_code": "850321",
+                        "children": []
+                    },
+                    {
+                        "code": "220202",
+                        "name": "氯碱",
+                        "index_code": "850322",
+                        "children": []
+                    },
+                    {
+                        "code": "220203",
+                        "name": "无机盐",
+                        "index_code": "850323",
+                        "children": []
+                    },
+                    {
+                        "code": "220204",
+                        "name": "其他化学原料",
+                        "index_code": "850324",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "220300",
+                "name": "化学制品",
+                "index_code": "801034",
+                "children": [
+                    {
+                        "code": "220301",
+                        "name": "氮肥",
+                        "index_code": "850331",
+                        "children": []
+                    },
+                    {
+                        "code": "220302",
+                        "name": "磷肥",
+                        "index_code": "850332",
+                        "children": []
+                    },
+                    {
+                        "code": "220306",
+                        "name": "钾肥",
+                        "index_code": "850336",
+                        "children": []
+                    },
+                    {
+                        "code": "220310",
+                        "name": "复合肥",
+                        "index_code": "850381",
+                        "children": []
+                    },
+                    {
+                        "code": "220303",
+                        "name": "农药",
+                        "index_code": "850333",
+                        "children": []
+                    },
+                    {
+                        "code": "220304",
+                        "name": "日用化学产品",
+                        "index_code": "850334",
+                        "children": []
+                    },
+                    {
+                        "code": "220305",
+                        "name": "涂料油漆油墨制造",
+                        "index_code": "850335",
+                        "children": []
+                    },
+                    {
+                        "code": "220307",
+                        "name": "民爆用品",
+                        "index_code": "850337",
+                        "children": []
+                    },
+                    {
+                        "code": "220308",
+                        "name": "纺织化学用品",
+                        "index_code": "850338",
+                        "children": []
+                    },
+                    {
+                        "code": "220311",
+                        "name": "氟化工及制冷剂",
+                        "index_code": "850382",
+                        "children": []
+                    },
+                    {
+                        "code": "220312",
+                        "name": "磷化工及磷酸盐",
+                        "index_code": "850383",
+                        "children": []
+                    },
+                    {
+                        "code": "220313",
+                        "name": "聚氨酯",
+                        "index_code": "850372",
+                        "children": []
+                    },
+                    {
+                        "code": "220314",
+                        "name": "玻纤",
+                        "index_code": "850373",
+                        "children": []
+                    },
+                    {
+                        "code": "220309",
+                        "name": "其他化学制品",
+                        "index_code": "850339",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "220400",
+                "name": "化学纤维",
+                "index_code": "801032",
+                "children": [
+                    {
+                        "code": "220401",
+                        "name": "涤纶",
+                        "index_code": "850341",
+                        "children": []
+                    },
+                    {
+                        "code": "220402",
+                        "name": "维纶",
+                        "index_code": "850342",
+                        "children": []
+                    },
+                    {
+                        "code": "220403",
+                        "name": "粘胶",
+                        "index_code": "850343",
+                        "children": []
+                    },
+                    {
+                        "code": "220405",
+                        "name": "氨纶",
+                        "index_code": "850345",
+                        "children": []
+                    },
+                    {
+                        "code": "220404",
+                        "name": "其他纤维",
+                        "index_code": "850344",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "220500",
+                "name": "塑料",
+                "index_code": "801036",
+                "children": [
+                    {
+                        "code": "220502",
+                        "name": "合成革",
+                        "index_code": "850352",
+                        "children": []
+                    },
+                    {
+                        "code": "220503",
+                        "name": "改性塑料",
+                        "index_code": "850353",
+                        "children": []
+                    },
+                    {
+                        "code": "220501",
+                        "name": "其他塑料制品",
+                        "index_code": "850351",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "220600",
+                "name": "橡胶",
+                "index_code": "801037",
+                "children": [
+                    {
+                        "code": "220601",
+                        "name": "轮胎",
+                        "index_code": "850361",
+                        "children": []
+                    },
+                    {
+                        "code": "220602",
+                        "name": "其他橡胶制品",
+                        "index_code": "850362",
+                        "children": []
+                    },
+                    {
+                        "code": "220603",
+                        "name": "炭黑",
+                        "index_code": "850363",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "230000",
+        "name": "钢铁",
+        "index_code": "801040",
+        "children": [
+            {
+                "code": "230100",
+                "name": "钢铁",
+                "index_code": "801041",
+                "children": [
+                    {
+                        "code": "230101",
+                        "name": "普钢",
+                        "index_code": "850411",
+                        "children": []
+                    },
+                    {
+                        "code": "230102",
+                        "name": "特钢",
+                        "index_code": "850412",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "240000",
+        "name": "有色金属",
+        "index_code": "801050",
+        "children": [
+            {
+                "code": "240300",
+                "name": "工业金属",
+                "index_code": "801055",
+                "children": [
+                    {
+                        "code": "240301",
+                        "name": "铝",
+                        "index_code": "850551",
+                        "children": []
+                    },
+                    {
+                        "code": "240302",
+                        "name": "铜",
+                        "index_code": "850552",
+                        "children": []
+                    },
+                    {
+                        "code": "240303",
+                        "name": "铅锌",
+                        "index_code": "850553",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "240400",
+                "name": "黄金",
+                "index_code": "801053",
+                "children": [
+                    {
+                        "code": "240401",
+                        "name": "黄金",
+                        "index_code": "850531",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "240500",
+                "name": "稀有金属",
+                "index_code": "801054",
+                "children": [
+                    {
+                        "code": "240501",
+                        "name": "稀土",
+                        "index_code": "850541",
+                        "children": []
+                    },
+                    {
+                        "code": "240502",
+                        "name": "钨",
+                        "index_code": "850542",
+                        "children": []
+                    },
+                    {
+                        "code": "240503",
+                        "name": "锂",
+                        "index_code": "850543",
+                        "children": []
+                    },
+                    {
+                        "code": "240504",
+                        "name": "其他稀有小金属",
+                        "index_code": "850544",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "240200",
+                "name": "金属非金属新材料",
+                "index_code": "801051",
+                "children": [
+                    {
+                        "code": "240201",
+                        "name": "金属新材料",
+                        "index_code": "850521",
+                        "children": []
+                    },
+                    {
+                        "code": "240202",
+                        "name": "磁性材料",
+                        "index_code": "850522",
+                        "children": []
+                    },
+                    {
+                        "code": "240203",
+                        "name": "非金属新材料",
+                        "index_code": "850523",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "610000",
+        "name": "建筑材料",
+        "index_code": "801710",
+        "children": [
+            {
+                "code": "610100",
+                "name": "水泥制造",
+                "index_code": "801711",
+                "children": [
+                    {
+                        "code": "610101",
+                        "name": "水泥制造",
+                        "index_code": "850612",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "610200",
+                "name": "玻璃制造",
+                "index_code": "801712",
+                "children": [
+                    {
+                        "code": "610201",
+                        "name": "玻璃制造",
+                        "index_code": "850611",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "610300",
+                "name": "其他建材",
+                "index_code": "801713",
+                "children": [
+                    {
+                        "code": "610301",
+                        "name": "耐火材料",
+                        "index_code": "850615",
+                        "children": []
+                    },
+                    {
+                        "code": "610302",
+                        "name": "管材",
+                        "index_code": "850616",
+                        "children": []
+                    },
+                    {
+                        "code": "610303",
+                        "name": "其他建材",
+                        "index_code": "850614",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "620000",
+        "name": "建筑装饰",
+        "index_code": "801720",
+        "children": [
+            {
+                "code": "620100",
+                "name": "房屋建设",
+                "index_code": "801721",
+                "children": [
+                    {
+                        "code": "620101",
+                        "name": "房屋建设",
+                        "index_code": "850623",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "620200",
+                "name": "装修装饰",
+                "index_code": "801722",
+                "children": [
+                    {
+                        "code": "620201",
+                        "name": "装修装饰",
+                        "index_code": "857221",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "620300",
+                "name": "基础建设",
+                "index_code": "801723",
+                "children": [
+                    {
+                        "code": "620301",
+                        "name": "城轨建设",
+                        "index_code": "857231",
+                        "children": []
+                    },
+                    {
+                        "code": "620302",
+                        "name": "路桥施工",
+                        "index_code": "857232",
+                        "children": []
+                    },
+                    {
+                        "code": "620303",
+                        "name": "水利工程",
+                        "index_code": "857233",
+                        "children": []
+                    },
+                    {
+                        "code": "620304",
+                        "name": "铁路建设",
+                        "index_code": "857234",
+                        "children": []
+                    },
+                    {
+                        "code": "620305",
+                        "name": "其他基础建设",
+                        "index_code": "857235",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "620400",
+                "name": "专业工程",
+                "index_code": "801724",
+                "children": [
+                    {
+                        "code": "620401",
+                        "name": "钢结构",
+                        "index_code": "857241",
+                        "children": []
+                    },
+                    {
+                        "code": "620402",
+                        "name": "化学工程",
+                        "index_code": "857242",
+                        "children": []
+                    },
+                    {
+                        "code": "620403",
+                        "name": "国际工程承包",
+                        "index_code": "857243",
+                        "children": []
+                    },
+                    {
+                        "code": "620404",
+                        "name": "其他专业工程",
+                        "index_code": "857244",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "620500",
+                "name": "园林工程",
+                "index_code": "801725",
+                "children": [
+                    {
+                        "code": "620501",
+                        "name": "园林工程",
+                        "index_code": "857251",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "630000",
+        "name": "电气设备",
+        "index_code": "801730",
+        "children": [
+            {
+                "code": "630100",
+                "name": "电机",
+                "index_code": "801731",
+                "children": [
+                    {
+                        "code": "630101",
+                        "name": "电机",
+                        "index_code": "850741",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "630200",
+                "name": "电气自动化设备",
+                "index_code": "801732",
+                "children": [
+                    {
+                        "code": "630201",
+                        "name": "电网自动化",
+                        "index_code": "857321",
+                        "children": []
+                    },
+                    {
+                        "code": "630202",
+                        "name": "工控自动化",
+                        "index_code": "857322",
+                        "children": []
+                    },
+                    {
+                        "code": "630203",
+                        "name": "计量仪表",
+                        "index_code": "857323",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "630300",
+                "name": "电源设备",
+                "index_code": "801733",
+                "children": [
+                    {
+                        "code": "630301",
+                        "name": "综合电力设备商",
+                        "index_code": "857331",
+                        "children": []
+                    },
+                    {
+                        "code": "630302",
+                        "name": "风电设备",
+                        "index_code": "857332",
+                        "children": []
+                    },
+                    {
+                        "code": "630303",
+                        "name": "光伏设备",
+                        "index_code": "857333",
+                        "children": []
+                    },
+                    {
+                        "code": "630304",
+                        "name": "火电设备",
+                        "index_code": "857334",
+                        "children": []
+                    },
+                    {
+                        "code": "630305",
+                        "name": "储能设备",
+                        "index_code": "857335",
+                        "children": []
+                    },
+                    {
+                        "code": "630306",
+                        "name": "其它电源设备",
+                        "index_code": "857336",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "630400",
+                "name": "高低压设备",
+                "index_code": "801734",
+                "children": [
+                    {
+                        "code": "630401",
+                        "name": "高压设备",
+                        "index_code": "857341",
+                        "children": []
+                    },
+                    {
+                        "code": "630402",
+                        "name": "中压设备",
+                        "index_code": "857342",
+                        "children": []
+                    },
+                    {
+                        "code": "630403",
+                        "name": "低压设备",
+                        "index_code": "857343",
+                        "children": []
+                    },
+                    {
+                        "code": "630404",
+                        "name": "线缆部件及其他",
+                        "index_code": "857344",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "640000",
+        "name": "机械设备",
+        "index_code": "801890",
+        "children": [
+            {
+                "code": "640100",
+                "name": "通用机械",
+                "index_code": "801072",
+                "children": [
+                    {
+                        "code": "640101",
+                        "name": "机床工具",
+                        "index_code": "850711",
+                        "children": []
+                    },
+                    {
+                        "code": "640102",
+                        "name": "机械基础件",
+                        "index_code": "850712",
+                        "children": []
+                    },
+                    {
+                        "code": "640103",
+                        "name": "磨具磨料",
+                        "index_code": "850713",
+                        "children": []
+                    },
+                    {
+                        "code": "640104",
+                        "name": "内燃机",
+                        "index_code": "850714",
+                        "children": []
+                    },
+                    {
+                        "code": "640105",
+                        "name": "制冷空调设备",
+                        "index_code": "850715",
+                        "children": []
+                    },
+                    {
+                        "code": "640106",
+                        "name": "其它通用机械",
+                        "index_code": "850716",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "640200",
+                "name": "专用设备",
+                "index_code": "801074",
+                "children": [
+                    {
+                        "code": "640201",
+                        "name": "工程机械",
+                        "index_code": "850722",
+                        "children": []
+                    },
+                    {
+                        "code": "640202",
+                        "name": "重型机械",
+                        "index_code": "850724",
+                        "children": []
+                    },
+                    {
+                        "code": "640203",
+                        "name": "冶金矿采化工设备",
+                        "index_code": "850725",
+                        "children": []
+                    },
+                    {
+                        "code": "640204",
+                        "name": "楼宇设备",
+                        "index_code": "850728",
+                        "children": []
+                    },
+                    {
+                        "code": "640205",
+                        "name": "环保设备",
+                        "index_code": "850729",
+                        "children": []
+                    },
+                    {
+                        "code": "640206",
+                        "name": "纺织服装设备",
+                        "index_code": "850721",
+                        "children": []
+                    },
+                    {
+                        "code": "640207",
+                        "name": "农用机械",
+                        "index_code": "850723",
+                        "children": []
+                    },
+                    {
+                        "code": "640208",
+                        "name": "印刷包装机械",
+                        "index_code": "850726",
+                        "children": []
+                    },
+                    {
+                        "code": "640209",
+                        "name": "其它专用机械",
+                        "index_code": "850727",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "640300",
+                "name": "仪器仪表",
+                "index_code": "801073",
+                "children": [
+                    {
+                        "code": "640301",
+                        "name": "仪器仪表",
+                        "index_code": "850731",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "640400",
+                "name": "金属制品",
+                "index_code": "801075",
+                "children": [
+                    {
+                        "code": "640401",
+                        "name": "金属制品",
+                        "index_code": "850751",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "640500",
+                "name": "运输设备",
+                "index_code": "801076",
+                "children": [
+                    {
+                        "code": "640501",
+                        "name": "铁路设备",
+                        "index_code": "850936",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "650000",
+        "name": "国防军工",
+        "index_code": "801740",
+        "children": [
+            {
+                "code": "650100",
+                "name": "航天装备",
+                "index_code": "801741",
+                "children": [
+                    {
+                        "code": "650101",
+                        "name": "航天装备",
+                        "index_code": "857411",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "650200",
+                "name": "航空装备",
+                "index_code": "801742",
+                "children": [
+                    {
+                        "code": "650201",
+                        "name": "航空装备",
+                        "index_code": "857421",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "650300",
+                "name": "地面兵装",
+                "index_code": "801743",
+                "children": [
+                    {
+                        "code": "650301",
+                        "name": "地面兵装",
+                        "index_code": "857431",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "650400",
+                "name": "船舶制造",
+                "index_code": "801744",
+                "children": [
+                    {
+                        "code": "650401",
+                        "name": "船舶制造",
+                        "index_code": "850935",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "280000",
+        "name": "汽车",
+        "index_code": "801880",
+        "children": [
+            {
+                "code": "280100",
+                "name": "汽车整车",
+                "index_code": "801094",
+                "children": [
+                    {
+                        "code": "280101",
+                        "name": "乘用车",
+                        "index_code": "850911",
+                        "children": []
+                    },
+                    {
+                        "code": "280102",
+                        "name": "商用载货车",
+                        "index_code": "850912",
+                        "children": []
+                    },
+                    {
+                        "code": "280103",
+                        "name": "商用载客车",
+                        "index_code": "850913",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "280200",
+                "name": "汽车零部件",
+                "index_code": "801093",
+                "children": [
+                    {
+                        "code": "280201",
+                        "name": "汽车零部件",
+                        "index_code": "850921",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "280300",
+                "name": "汽车服务",
+                "index_code": "801092",
+                "children": [
+                    {
+                        "code": "280301",
+                        "name": "汽车服务",
+                        "index_code": "850941",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "280400",
+                "name": "其他交运设备",
+                "index_code": "801881",
+                "children": [
+                    {
+                        "code": "280401",
+                        "name": "其他交运设备",
+                        "index_code": "858811",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "330000",
+        "name": "家用电器",
+        "index_code": "801110",
+        "children": [
+            {
+                "code": "330100",
+                "name": "白色家电",
+                "index_code": "801111",
+                "children": [
+                    {
+                        "code": "330101",
+                        "name": "冰箱",
+                        "index_code": "851111",
+                        "children": []
+                    },
+                    {
+                        "code": "330102",
+                        "name": "空调",
+                        "index_code": "851112",
+                        "children": []
+                    },
+                    {
+                        "code": "330103",
+                        "name": "洗衣机",
+                        "index_code": "851113",
+                        "children": []
+                    },
+                    {
+                        "code": "330104",
+                        "name": "小家电",
+                        "index_code": "851114",
+                        "children": []
+                    },
+                    {
+                        "code": "330105",
+                        "name": "家电零部件",
+                        "index_code": "851115",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "330200",
+                "name": "视听器材",
+                "index_code": "801112",
+                "children": [
+                    {
+                        "code": "330201",
+                        "name": "彩电",
+                        "index_code": "851121",
+                        "children": []
+                    },
+                    {
+                        "code": "330202",
+                        "name": "其它视听器材",
+                        "index_code": "851122",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "360000",
+        "name": "轻工制造",
+        "index_code": "801140",
+        "children": [
+            {
+                "code": "360100",
+                "name": "造纸",
+                "index_code": "801143",
+                "children": [
+                    {
+                        "code": "360101",
+                        "name": "造纸",
+                        "index_code": "851411",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "360200",
+                "name": "包装印刷",
+                "index_code": "801141",
+                "children": [
+                    {
+                        "code": "360201",
+                        "name": "包装印刷",
+                        "index_code": "851421",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "360300",
+                "name": "家用轻工",
+                "index_code": "801142",
+                "children": [
+                    {
+                        "code": "360302",
+                        "name": "家具",
+                        "index_code": "851432",
+                        "children": []
+                    },
+                    {
+                        "code": "360303",
+                        "name": "其他家用轻工",
+                        "index_code": "851433",
+                        "children": []
+                    },
+                    {
+                        "code": "360304",
+                        "name": "珠宝首饰",
+                        "index_code": "851434",
+                        "children": []
+                    },
+                    {
+                        "code": "360305",
+                        "name": "文娱用品",
+                        "index_code": "851435",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "360400",
+                "name": "其他轻工制造",
+                "index_code": "801144",
+                "children": [
+                    {
+                        "code": "360401",
+                        "name": "其他轻工制造",
+                        "index_code": "851441",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "110000",
+        "name": "农林牧渔",
+        "index_code": "801010",
+        "children": [
+            {
+                "code": "110100",
+                "name": "种植业",
+                "index_code": "801016",
+                "children": [
+                    {
+                        "code": "110101",
+                        "name": "种子生产",
+                        "index_code": "850111",
+                        "children": []
+                    },
+                    {
+                        "code": "110102",
+                        "name": "粮食种植",
+                        "index_code": "850112",
+                        "children": []
+                    },
+                    {
+                        "code": "110103",
+                        "name": "其他种植业",
+                        "index_code": "850113",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110200",
+                "name": "渔业",
+                "index_code": "801015",
+                "children": [
+                    {
+                        "code": "110201",
+                        "name": "海洋捕捞",
+                        "index_code": "850121",
+                        "children": []
+                    },
+                    {
+                        "code": "110202",
+                        "name": "水产养殖",
+                        "index_code": "850122",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110300",
+                "name": "林业",
+                "index_code": "801011",
+                "children": [
+                    {
+                        "code": "110301",
+                        "name": "林业",
+                        "index_code": "850131",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110400",
+                "name": "饲料",
+                "index_code": "801014",
+                "children": [
+                    {
+                        "code": "110401",
+                        "name": "饲料",
+                        "index_code": "850141",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110500",
+                "name": "农产品加工",
+                "index_code": "801012",
+                "children": [
+                    {
+                        "code": "110501",
+                        "name": "果蔬加工",
+                        "index_code": "850151",
+                        "children": []
+                    },
+                    {
+                        "code": "110502",
+                        "name": "粮油加工",
+                        "index_code": "850152",
+                        "children": []
+                    },
+                    {
+                        "code": "110504",
+                        "name": "其他农产品加工",
+                        "index_code": "850154",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110600",
+                "name": "农业综合",
+                "index_code": "801013",
+                "children": [
+                    {
+                        "code": "110601",
+                        "name": "农业综合",
+                        "index_code": "850161",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110700",
+                "name": "畜禽养殖",
+                "index_code": "801017",
+                "children": [
+                    {
+                        "code": "110701",
+                        "name": "畜禽养殖",
+                        "index_code": "850171",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "110800",
+                "name": "动物保健",
+                "index_code": "801018",
+                "children": [
+                    {
+                        "code": "110801",
+                        "name": "动物保健",
+                        "index_code": "850181",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "340000",
+        "name": "食品饮料",
+        "index_code": "801120",
+        "children": [
+            {
+                "code": "340300",
+                "name": "饮料制造",
+                "index_code": "801123",
+                "children": [
+                    {
+                        "code": "340301",
+                        "name": "白酒",
+                        "index_code": "851231",
+                        "children": []
+                    },
+                    {
+                        "code": "340302",
+                        "name": "啤酒",
+                        "index_code": "851232",
+                        "children": []
+                    },
+                    {
+                        "code": "340303",
+                        "name": "其他酒类",
+                        "index_code": "851233",
+                        "children": []
+                    },
+                    {
+                        "code": "340304",
+                        "name": "软饮料",
+                        "index_code": "851234",
+                        "children": []
+                    },
+                    {
+                        "code": "340305",
+                        "name": "葡萄酒",
+                        "index_code": "851235",
+                        "children": []
+                    },
+                    {
+                        "code": "340306",
+                        "name": "黄酒",
+                        "index_code": "851236",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "340400",
+                "name": "食品加工",
+                "index_code": "801124",
+                "children": [
+                    {
+                        "code": "340401",
+                        "name": "肉制品",
+                        "index_code": "851241",
+                        "children": []
+                    },
+                    {
+                        "code": "340402",
+                        "name": "调味发酵品",
+                        "index_code": "851242",
+                        "children": []
+                    },
+                    {
+                        "code": "340403",
+                        "name": "乳品",
+                        "index_code": "851243",
+                        "children": []
+                    },
+                    {
+                        "code": "340404",
+                        "name": "食品综合",
+                        "index_code": "851244",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "350000",
+        "name": "纺织服装",
+        "index_code": "801130",
+        "children": [
+            {
+                "code": "350100",
+                "name": "纺织制造",
+                "index_code": "801131",
+                "children": [
+                    {
+                        "code": "350101",
+                        "name": "毛纺",
+                        "index_code": "851311",
+                        "children": []
+                    },
+                    {
+                        "code": "350102",
+                        "name": "棉纺",
+                        "index_code": "851312",
+                        "children": []
+                    },
+                    {
+                        "code": "350103",
+                        "name": "丝绸",
+                        "index_code": "851313",
+                        "children": []
+                    },
+                    {
+                        "code": "350104",
+                        "name": "印染",
+                        "index_code": "851314",
+                        "children": []
+                    },
+                    {
+                        "code": "350105",
+                        "name": "辅料",
+                        "index_code": "851315",
+                        "children": []
+                    },
+                    {
+                        "code": "350106",
+                        "name": "其他纺织",
+                        "index_code": "851316",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "350200",
+                "name": "服装家纺",
+                "index_code": "801132",
+                "children": [
+                    {
+                        "code": "350202",
+                        "name": "男装",
+                        "index_code": "851322",
+                        "children": []
+                    },
+                    {
+                        "code": "350203",
+                        "name": "女装",
+                        "index_code": "851323",
+                        "children": []
+                    },
+                    {
+                        "code": "350204",
+                        "name": "休闲服装",
+                        "index_code": "851324",
+                        "children": []
+                    },
+                    {
+                        "code": "350205",
+                        "name": "鞋帽",
+                        "index_code": "851325",
+                        "children": []
+                    },
+                    {
+                        "code": "350206",
+                        "name": "家纺",
+                        "index_code": "851326",
+                        "children": []
+                    },
+                    {
+                        "code": "350207",
+                        "name": "其他服装",
+                        "index_code": "851327",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "370000",
+        "name": "医药生物",
+        "index_code": "801150",
+        "children": [
+            {
+                "code": "370100",
+                "name": "化学制药",
+                "index_code": "801151",
+                "children": [
+                    {
+                        "code": "370101",
+                        "name": "化学原料药",
+                        "index_code": "851511",
+                        "children": []
+                    },
+                    {
+                        "code": "370102",
+                        "name": "化学制剂",
+                        "index_code": "851512",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "370200",
+                "name": "中药",
+                "index_code": "801155",
+                "children": [
+                    {
+                        "code": "370201",
+                        "name": "中药",
+                        "index_code": "851521",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "370300",
+                "name": "生物制品",
+                "index_code": "801152",
+                "children": [
+                    {
+                        "code": "370301",
+                        "name": "生物制品",
+                        "index_code": "851531",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "370400",
+                "name": "医药商业",
+                "index_code": "801154",
+                "children": [
+                    {
+                        "code": "370401",
+                        "name": "医药商业",
+                        "index_code": "851541",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "370500",
+                "name": "医疗器械",
+                "index_code": "801153",
+                "children": [
+                    {
+                        "code": "370501",
+                        "name": "医疗器械",
+                        "index_code": "851551",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "370600",
+                "name": "医疗服务",
+                "index_code": "801156",
+                "children": [
+                    {
+                        "code": "370601",
+                        "name": "医疗服务",
+                        "index_code": "851561",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "450000",
+        "name": "商业贸易",
+        "index_code": "801200",
+        "children": [
+            {
+                "code": "450300",
+                "name": "一般零售",
+                "index_code": "801203",
+                "children": [
+                    {
+                        "code": "450301",
+                        "name": "百货",
+                        "index_code": "852031",
+                        "children": []
+                    },
+                    {
+                        "code": "450302",
+                        "name": "超市",
+                        "index_code": "852032",
+                        "children": []
+                    },
+                    {
+                        "code": "450303",
+                        "name": "多业态零售",
+                        "index_code": "852033",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "450400",
+                "name": "专业零售",
+                "index_code": "801204",
+                "children": [
+                    {
+                        "code": "450401",
+                        "name": "专业连锁",
+                        "index_code": "852041",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "450500",
+                "name": "商业物业经营",
+                "index_code": "801205",
+                "children": [
+                    {
+                        "code": "450501",
+                        "name": "一般物业经营",
+                        "index_code": "852051",
+                        "children": []
+                    },
+                    {
+                        "code": "450502",
+                        "name": "专业市场",
+                        "index_code": "852052",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "450200",
+                "name": "贸易",
+                "index_code": "801202",
+                "children": [
+                    {
+                        "code": "450201",
+                        "name": "贸易",
+                        "index_code": "852021",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "460000",
+        "name": "休闲服务",
+        "index_code": "801210",
+        "children": [
+            {
+                "code": "460100",
+                "name": "景点",
+                "index_code": "801212",
+                "children": [
+                    {
+                        "code": "460101",
+                        "name": "人工景点",
+                        "index_code": "852111",
+                        "children": []
+                    },
+                    {
+                        "code": "460102",
+                        "name": "自然景点",
+                        "index_code": "852112",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "460200",
+                "name": "酒店",
+                "index_code": "801213",
+                "children": [
+                    {
+                        "code": "460201",
+                        "name": "酒店",
+                        "index_code": "852121",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "460300",
+                "name": "旅游综合",
+                "index_code": "801214",
+                "children": [
+                    {
+                        "code": "460301",
+                        "name": "旅游综合",
+                        "index_code": "852131",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "460400",
+                "name": "餐饮",
+                "index_code": "801211",
+                "children": [
+                    {
+                        "code": "460401",
+                        "name": "餐饮",
+                        "index_code": "852141",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "460500",
+                "name": "其他休闲服务",
+                "index_code": "801215",
+                "children": [
+                    {
+                        "code": "460501",
+                        "name": "其他休闲服务",
+                        "index_code": "852151",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "270000",
+        "name": "电子",
+        "index_code": "801080",
+        "children": [
+            {
+                "code": "270100",
+                "name": "半导体",
+                "index_code": "801081",
+                "children": [
+                    {
+                        "code": "270101",
+                        "name": "集成电路",
+                        "index_code": "850811",
+                        "children": []
+                    },
+                    {
+                        "code": "270102",
+                        "name": "分立器件",
+                        "index_code": "850812",
+                        "children": []
+                    },
+                    {
+                        "code": "270103",
+                        "name": "半导体材料",
+                        "index_code": "850813",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "270200",
+                "name": "元件",
+                "index_code": "801083",
+                "children": [
+                    {
+                        "code": "270202",
+                        "name": "印制电路板",
+                        "index_code": "850822",
+                        "children": []
+                    },
+                    {
+                        "code": "270203",
+                        "name": "被动元件",
+                        "index_code": "850823",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "270300",
+                "name": "光学光电子",
+                "index_code": "801084",
+                "children": [
+                    {
+                        "code": "270301",
+                        "name": "显示器件",
+                        "index_code": "850831",
+                        "children": []
+                    },
+                    {
+                        "code": "270302",
+                        "name": "LED",
+                        "index_code": "850832",
+                        "children": []
+                    },
+                    {
+                        "code": "270303",
+                        "name": "光学元件",
+                        "index_code": "850833",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "270500",
+                "name": "电子制造",
+                "index_code": "801085",
+                "children": [
+                    {
+                        "code": "270501",
+                        "name": "电子系统组装",
+                        "index_code": "850851",
+                        "children": []
+                    },
+                    {
+                        "code": "270502",
+                        "name": "电子零部件制造",
+                        "index_code": "850852",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "270400",
+                "name": "其他电子",
+                "index_code": "801082",
+                "children": [
+                    {
+                        "code": "270401",
+                        "name": "其他电子",
+                        "index_code": "850841",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "710000",
+        "name": "计算机",
+        "index_code": "801750",
+        "children": [
+            {
+                "code": "710100",
+                "name": "计算机设备",
+                "index_code": "801101",
+                "children": [
+                    {
+                        "code": "710101",
+                        "name": "计算机设备",
+                        "index_code": "851021",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "710200",
+                "name": "计算机应用",
+                "index_code": "801222",
+                "children": [
+                    {
+                        "code": "710201",
+                        "name": "软件开发",
+                        "index_code": "852225",
+                        "children": []
+                    },
+                    {
+                        "code": "710202",
+                        "name": "IT服务",
+                        "index_code": "852226",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "720000",
+        "name": "传媒",
+        "index_code": "801760",
+        "children": [
+            {
+                "code": "720100",
+                "name": "文化传媒",
+                "index_code": "801761",
+                "children": [
+                    {
+                        "code": "720101",
+                        "name": "平面媒体",
+                        "index_code": "852241",
+                        "children": []
+                    },
+                    {
+                        "code": "720102",
+                        "name": "影视动漫",
+                        "index_code": "852242",
+                        "children": []
+                    },
+                    {
+                        "code": "720103",
+                        "name": "有线电视网络",
+                        "index_code": "852224",
+                        "children": []
+                    },
+                    {
+                        "code": "720104",
+                        "name": "其他文化传媒",
+                        "index_code": "852244",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "720200",
+                "name": "营销传播",
+                "index_code": "801751",
+                "children": [
+                    {
+                        "code": "720201",
+                        "name": "营销服务",
+                        "index_code": "852243",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "720300",
+                "name": "互联网传媒",
+                "index_code": "801752",
+                "children": [
+                    {
+                        "code": "720301",
+                        "name": "互联网信息服务",
+                        "index_code": "852221",
+                        "children": []
+                    },
+                    {
+                        "code": "720302",
+                        "name": "移动互联网服务",
+                        "index_code": "852222",
+                        "children": []
+                    },
+                    {
+                        "code": "720303",
+                        "name": "其他互联网服务",
+                        "index_code": "852223",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "730000",
+        "name": "通信",
+        "index_code": "801770",
+        "children": [
+            {
+                "code": "730100",
+                "name": "通信运营",
+                "index_code": "801223",
+                "children": [
+                    {
+                        "code": "730101",
+                        "name": "通信运营",
+                        "index_code": "852211",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "730200",
+                "name": "通信设备",
+                "index_code": "801102",
+                "children": [
+                    {
+                        "code": "730201",
+                        "name": "终端设备",
+                        "index_code": "851012",
+                        "children": []
+                    },
+                    {
+                        "code": "730202",
+                        "name": "通信传输设备",
+                        "index_code": "851013",
+                        "children": []
+                    },
+                    {
+                        "code": "730203",
+                        "name": "通信配套服务",
+                        "index_code": "851014",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "410000",
+        "name": "公用事业",
+        "index_code": "801160",
+        "children": [
+            {
+                "code": "410100",
+                "name": "电力",
+                "index_code": "801161",
+                "children": [
+                    {
+                        "code": "410101",
+                        "name": "火电",
+                        "index_code": "851611",
+                        "children": []
+                    },
+                    {
+                        "code": "410102",
+                        "name": "水电",
+                        "index_code": "851612",
+                        "children": []
+                    },
+                    {
+                        "code": "410103",
+                        "name": "燃机发电",
+                        "index_code": "851613",
+                        "children": []
+                    },
+                    {
+                        "code": "410104",
+                        "name": "热电",
+                        "index_code": "851614",
+                        "children": []
+                    },
+                    {
+                        "code": "410105",
+                        "name": "新能源发电",
+                        "index_code": "851615",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "410200",
+                "name": "水务",
+                "index_code": "801164",
+                "children": [
+                    {
+                        "code": "410201",
+                        "name": "水务",
+                        "index_code": "851621",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "410300",
+                "name": "燃气",
+                "index_code": "801163",
+                "children": [
+                    {
+                        "code": "410301",
+                        "name": "燃气",
+                        "index_code": "851631",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "410400",
+                "name": "环保工程及服务",
+                "index_code": "801162",
+                "children": [
+                    {
+                        "code": "410401",
+                        "name": "环保工程及服务",
+                        "index_code": "851641",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "420000",
+        "name": "交通运输",
+        "index_code": "801170",
+        "children": [
+            {
+                "code": "420100",
+                "name": "港口",
+                "index_code": "801171",
+                "children": [
+                    {
+                        "code": "420101",
+                        "name": "港口",
+                        "index_code": "851711",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420200",
+                "name": "高速公路",
+                "index_code": "801175",
+                "children": [
+                    {
+                        "code": "420201",
+                        "name": "高速公路",
+                        "index_code": "851731",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420300",
+                "name": "公交",
+                "index_code": "801172",
+                "children": [
+                    {
+                        "code": "420301",
+                        "name": "公交",
+                        "index_code": "851721",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420400",
+                "name": "航空运输",
+                "index_code": "801173",
+                "children": [
+                    {
+                        "code": "420401",
+                        "name": "航空运输",
+                        "index_code": "851741",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420500",
+                "name": "机场",
+                "index_code": "801174",
+                "children": [
+                    {
+                        "code": "420501",
+                        "name": "机场",
+                        "index_code": "851751",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420600",
+                "name": "航运",
+                "index_code": "801176",
+                "children": [
+                    {
+                        "code": "420601",
+                        "name": "航运",
+                        "index_code": "851761",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420700",
+                "name": "铁路运输",
+                "index_code": "801177",
+                "children": [
+                    {
+                        "code": "420701",
+                        "name": "铁路运输",
+                        "index_code": "851771",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "420800",
+                "name": "物流",
+                "index_code": "801178",
+                "children": [
+                    {
+                        "code": "420801",
+                        "name": "物流",
+                        "index_code": "851781",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "430000",
+        "name": "房地产",
+        "index_code": "801180",
+        "children": [
+            {
+                "code": "430100",
+                "name": "房地产开发",
+                "index_code": "801181",
+                "children": [
+                    {
+                        "code": "430101",
+                        "name": "房地产开发",
+                        "index_code": "851811",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "430200",
+                "name": "园区开发",
+                "index_code": "801182",
+                "children": [
+                    {
+                        "code": "430201",
+                        "name": "园区开发",
+                        "index_code": "851821",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "480000",
+        "name": "银行",
+        "index_code": "801780",
+        "children": [
+            {
+                "code": "480100",
+                "name": "银行",
+                "index_code": "801192",
+                "children": [
+                    {
+                        "code": "480101",
+                        "name": "银行",
+                        "index_code": "851911",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "490000",
+        "name": "非银金融",
+        "index_code": "801790",
+        "children": [
+            {
+                "code": "490100",
+                "name": "证券",
+                "index_code": "801193",
+                "children": [
+                    {
+                        "code": "490101",
+                        "name": "证券",
+                        "index_code": "851931",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "490200",
+                "name": "保险",
+                "index_code": "801194",
+                "children": [
+                    {
+                        "code": "490201",
+                        "name": "保险",
+                        "index_code": "851941",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "code": "490300",
+                "name": "多元金融",
+                "index_code": "801191",
+                "children": [
+                    {
+                        "code": "490301",
+                        "name": "多元金融",
+                        "index_code": "851921",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "code": "510000",
+        "name": "综合",
+        "index_code": "801230",
+        "children": [
+            {
+                "code": "510100",
+                "name": "综合",
+                "index_code": "801231",
+                "children": [
+                    {
+                        "code": "510101",
+                        "name": "综合",
+                        "index_code": "852311",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
